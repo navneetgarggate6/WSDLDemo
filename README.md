@@ -13,3 +13,7 @@ dotnet tool install --global dotnet-svcutil
 dotnet svcutil http://www.dneonline.com/calculator.asmx?WSDL
 
 ```
+
+> More details about svcutil
+
+https://docs.microsoft.com/en-us/dotnet/core/additional-tools/dotnet-svcutil-guide?tabs=dotnetsvcutil2x
